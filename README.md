@@ -1,5 +1,3 @@
-# IBM-Data-Science-Capstone-SpaceX
-
 # IBM Data Science Capstone — SpaceX Falcon 9 Landing Prediction
 
 ## Project Overview
